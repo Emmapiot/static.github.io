@@ -1,3 +1,33 @@
+body {
+	text-align: center;
+	background: #FFFCEB;
+	font-family: 'Laila', serif;
+}
+
 h1 {
-  color: red;
+	color: brown;
+	font-size: 100px;
+	font-family: 'Laila', serif;
+}
+
+h2	{
+color: orange;
+text-align: left;
+font-family: 'Laila', serif;
+}
+img	{
+	width: 400px
+}
+
+ul	{
+
+text-align: left;
+}
+
+.photo2 {width: 200px
+}
+
+.intro	{background: white;
+	margin: 100px;
+	padding: 100px;
 }
